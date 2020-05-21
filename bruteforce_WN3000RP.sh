@@ -1,6 +1,6 @@
 #!/bin/bash
 # title : bruteforce_WN3000RP.sh
-# author : tclauzel
+# author : 
 # description : trying default credentials on WN3000RP NETGEAR ROUTER
 #########################
 echo "Usage $0 192.168.1.1 dico.txt"
